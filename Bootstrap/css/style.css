@@ -3,7 +3,7 @@ html{
     scroll-behavior: smooth;
 }
 .fullscreen-landing{
-    background: white url('/img/img9.jpg') no-repeat scroll center;
+    background: white url('../../img/img9.jpg') no-repeat scroll center;
     height: 100vh;
     background-size: cover;
 }
@@ -16,7 +16,7 @@ html{
     width: 500px;
 }
 .subscribe-section{
-    background: white url('/img/img9.jpg') no-repeat center;
+    background: white url('../../img/img9.jpg') no-repeat center;
     background-size: cover;
 }
 .subscribe-overlay{
